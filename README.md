@@ -1,11 +1,13 @@
-# Frontend Mentor - Social links profile
+# Frontend Mentor - Social links profile solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+      - [Screenshot Desktop](Desktop.png)
+      - [Screenshot Mobile](mobile.png)
   - [Links](#links)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
